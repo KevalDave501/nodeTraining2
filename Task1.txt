@@ -1,0 +1,24 @@
+1> the below data is the result of search genre according to the
+[
+    {
+        "id": 2,
+        "title": "Tu jane na",
+        "movie": "Ajab Prem Ki Gajab Kahani",
+        "genre": "Romantic",
+        "rating": 1
+    },
+    {
+        "id": 4,
+        "title": "Hawayein",
+        "movie": "Jab Harry Met Sejal",
+        "genre": "Romantic",
+        "rating": 2
+    },
+    {
+        "id": 5,
+        "title": "Channa Mereya",
+        "movie": "Ae Dil Hai Mushkil",
+        "genre": "Romantic",
+        "rating": 4
+    }
+]
