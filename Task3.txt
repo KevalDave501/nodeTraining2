@@ -1,0 +1,75 @@
+3> the below data is the result of sort to the 
+[
+    {
+        "id": 2,
+        "title": "Tu jane na",
+        "movie": "Ajab Prem Ki Gajab Kahani",
+        "genre": "Romantic",
+        "rating": 1
+    },
+    {
+        "id": 4,
+        "title": "Hawayein",
+        "movie": "Jab Harry Met Sejal",
+        "genre": "Romantic",
+        "rating": 2
+    },
+    {
+        "id": 3,
+        "title": "Bandeya",
+        "movie": "Dil Juunglee",
+        "genre": "Break-up",
+        "rating": 3
+    },
+    {
+        "id": 1,
+        "title": "Aakhon me teri",
+        "movie": "Om Shanti Om",
+        "genre": "Fantasy",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "title": "Channa Mereya",
+        "movie": "Ae Dil Hai Mushkil",
+        "genre": "Romantic",
+        "rating": 4
+    }
+]3> the below data is the result of sort to the
+[
+    {
+        "id": 2,
+        "title": "Tu jane na",
+        "movie": "Ajab Prem Ki Gajab Kahani",
+        "genre": "Romantic",
+        "rating": 1
+    },
+    {
+        "id": 4,
+        "title": "Hawayein",
+        "movie": "Jab Harry Met Sejal",
+        "genre": "Romantic",
+        "rating": 2
+    },
+    {
+        "id": 3,
+        "title": "Bandeya",
+        "movie": "Dil Juunglee",
+        "genre": "Break-up",
+        "rating": 3
+    },
+    {
+        "id": 1,
+        "title": "Aakhon me teri",
+        "movie": "Om Shanti Om",
+        "genre": "Fantasy",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "title": "Channa Mereya",
+        "movie": "Ae Dil Hai Mushkil",
+        "genre": "Romantic",
+        "rating": 4
+    }
+]
